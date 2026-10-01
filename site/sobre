@@ -1,0 +1,23 @@
+<header>
+        <a href="#" class="logo">Viajô</a>
+        <nav class="navbar">
+            <ul>
+                <li><a href="#about">Sobre</a></li>
+                <li><a href="#gallery">Lugares Para Visitar</a></li>
+                <li><a href="#map">Nossa localização</a></li>
+                <li><a href="#cultura">Cultura</a></li>
+                <li><a href="#contact">Contato</a></li>
+               
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="hero"></section>
+        <section id="about">    
+            <h1 id="titulo">Sobre Nós</h1>
+            <p>A Viajo é uma empresa especializada em oferecer experiências de viagem completas e personalizadas. Seu principal objetivo é ajudar os clientes a planejarem suas viagens de forma prática, segura e confortável.</p>
+            <p>A empresa oferece serviços como compra de passagens aéreas, reservas de hotéis, pacotes turísticos, passeios e roteiros personalizados. Além disso, a Viajo busca orientar seus clientes na escolha dos melhores destinos de acordo com seus interesses e orçamento.</p>
+            <p>A Viajo valoriza a qualidade do atendimento e a satisfação de seus clientes, procurando tornar cada viagem uma experiência agradável e inesquecível. Com praticidade, segurança e atenção às necessidades de cada pessoa, a empresa busca transformar o sonho de viajar em realidade.</p>
+            <strong><P id="rodapeTitulo">Seu próximo destino está mais perto do que você imagina. <br> Venha descobrir o Brasil com a gente!</p></strong>
+
+        </section>
