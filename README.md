@@ -30,3 +30,7 @@ O formulário é apenas visual e não envia mensagens. O mapa exige internet e s
 ## Licença
 
 O código autoral está sob licença MIT; veja [LICENSE](LICENSE). A licença não concede direitos sobre marcas, conteúdo de mapas ou imagens de terceiros.
+
+## Demonstração
+
+![Interface do Viajô](preview%201.png)
