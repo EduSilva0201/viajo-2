@@ -19,12 +19,13 @@ Abra `index.html` no navegador. Opcionalmente, com Python 3 instalado, execute `
 
 - `index.html`: página principal com extensão correta.
 - `style.css`: estilos da página.
+- `img/`: imagens dos destinos, da seção cultural e do banner.
 - `index` e `css`: arquivos originais preservados como histórico da atividade.
 - Demais arquivos: anotações da versão original.
 
 ## Limitações e itens pendentes
 
-O formulário é apenas visual e não envia mensagens. O mapa exige internet e sua localização original deve ser conferida antes de uso real. As imagens originais **não estão neste repositório**: faltam `img/1.jpg` a `img/5.jpg`, `img/cultura.jpg` e `img/hero.jpg`. Assim, as imagens não serão exibidas até que esses arquivos sejam enviados. A demonstração visual ainda precisa ser incluída após recuperar as imagens. A interface não representa um serviço comercial de turismo.
+O formulário é apenas visual e não envia mensagens. O mapa exige internet e sua localização original deve ser conferida antes de uso real. As sete imagens do projeto estão incluídas na pasta `img/`, com versões otimizadas para web (até 1920 pixels). A demonstração visual da interface ainda precisa ser incluída. A interface não representa um serviço comercial de turismo.
 
 ## Licença
 
